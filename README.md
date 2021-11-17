@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Click Here](https://lekejosh.github.io/Frontend-mentor-3-card-project/)
 
 ## My process
 
